@@ -94,7 +94,6 @@
     "ghpages:deploy": "node ./scripts/ghpages-deploy.mjs",
     "supabase:remote:init": "node ./scripts/supabase-remote-init.mjs",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
-    "preinstall": "node preinstall.js"
+    "build-storybook": "storybook build"
   }
 }
